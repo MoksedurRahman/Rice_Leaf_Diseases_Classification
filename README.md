@@ -1,1 +1,1 @@
-# Rice_Leaf_Diseases_Classification
+# Rice Leaf Diseases Classification

@@ -5,7 +5,7 @@ from skimage import io
 %matplotlib inline
 
 # %%
-# Pipeline For Image to feature Vector
+# Pipeline For Image to feature Vector 
 import os
 from skimage import color
 from skimage import transform
